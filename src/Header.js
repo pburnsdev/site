@@ -9,7 +9,7 @@ function Header() {
            <Button>Experience</Button>
            <Button>Reading List</Button>
            <Button>Volunteering</Button>
-           <Button onClick={() => window.open('https://pburnsdev.github.io/pburnsdev', 'blank')}>Blackjack in Angular</Button>
+           <Button onClick={() => window.open('https://pburnsdev.github.io/BlackJack/pburnsdev', 'blank')}>Blackjack in Angular</Button>
            <Button>Contact</Button>
         </div>
     )
